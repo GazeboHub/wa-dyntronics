@@ -1,3 +1,4 @@
-[submodule "trees/integration/node-red"]
+[submodule "tree/integration/node-red"]
 	path = tree/integration/node-red
 	url = git@github.com:GazeboHub/wa-dyntronics-3p-node-red.git
+	branch = master
