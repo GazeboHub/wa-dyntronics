@@ -2,3 +2,6 @@
 	path = tree/integration/node-red
 	url = git@github.com:GazeboHub/wa-dyntronics-3p-node-red.git
 	branch = master
+[submodule "tree/integration/fritzing"]
+	path = tree/integration/fritzing
+	url = git@github.com:GazeboHub/wa-dyntronics-3p-fritzing.git
